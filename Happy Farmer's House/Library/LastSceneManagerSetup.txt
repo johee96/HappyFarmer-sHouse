@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/scene/farm.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/scene/store.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/GreenForest/Scences/Scene.unity
+  isLoaded: 0
+  isActive: 0

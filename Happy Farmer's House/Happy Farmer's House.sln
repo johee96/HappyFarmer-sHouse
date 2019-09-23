@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy Farmer's House", "Happy Farmer's House.csproj", "{528F3A73-5B0A-3971-2450-1114505F3ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy Farmer's House.Plugins", "Happy Farmer's House.Plugins.csproj", "{9B3630F7-1693-4559-2A24-AE6B64FCE765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy Farmer's House.Editor.Plugins", "Happy Farmer's House.Editor.Plugins.csproj", "{E10E4E38-1DB8-0A64-D98F-81C1AAC12331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528F3A73-5B0A-3971-2450-1114505F3ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528F3A73-5B0A-3971-2450-1114505F3ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528F3A73-5B0A-3971-2450-1114505F3ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528F3A73-5B0A-3971-2450-1114505F3ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3630F7-1693-4559-2A24-AE6B64FCE765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3630F7-1693-4559-2A24-AE6B64FCE765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3630F7-1693-4559-2A24-AE6B64FCE765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3630F7-1693-4559-2A24-AE6B64FCE765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10E4E38-1DB8-0A64-D98F-81C1AAC12331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10E4E38-1DB8-0A64-D98F-81C1AAC12331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10E4E38-1DB8-0A64-D98F-81C1AAC12331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10E4E38-1DB8-0A64-D98F-81C1AAC12331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

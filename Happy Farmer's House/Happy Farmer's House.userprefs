@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Happy Farmer's House.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\asset\Suriyun\UnityChanShader\Shader\Unitychan_chara_hada.shader">
+    <Files>
+      <File FileName="Assets\script\Bullet\BulletCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Monster_Cobra_Ctrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\asset\Suriyun\UnityChanShader\Shader\Unitychan_chara_hada.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
